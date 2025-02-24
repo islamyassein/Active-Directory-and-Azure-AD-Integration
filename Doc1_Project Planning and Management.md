@@ -1,10 +1,8 @@
-# Project Planning & Management
-
 # Active Directory and Azure AD Integration
-
+# Project Planning & Management
 02.23.2025
 
-**─────**
+**───────**
 
 DEPI Azure Architect
 
