@@ -1,0 +1,217 @@
+<a name="_9nvcibv3gama"></a>  
+
+![horizontal line]
+## ![horizontal line]<a name="_z6ne0og04bp5"></a> 
+![Placeholder image](Aspose.Words.ce7f7982-a84e-4828-aa2d-247a4dd45150.002.jpeg)
+# <a name="_6q08wzrt2kw6"></a>**Project Planning & Management**
+
+# <a name="_vk5a8gslhoh5"></a>Project 2: Active Directory and Azure AD Integration
+
+<a name="_pjm8sjhv1cds"></a><a name="_ng30guuqqp2v"></a>02.23.2025
+
+**─────**
+
+DEPI Azure Architect
+
+Team2 
+
+Global Knowledge Training Company
+
+Sheraton
+# <a name="_au51mny0sx6"></a>**Project Overview**
+As Azure Cloud Architects, we are excited to present an overview of the Active Directory and Azure AD Integration project. This project aims to seamlessly integrate on-premises Active Directory (AD) with Azure Active Directory (Azure AD), creating a robust hybrid identity solution that enhances security, scalability, and user experience.
+
+`	`This project is a critical step towards modernizing our identity management infrastructure, aligning with best practices, and leveraging the full potential of Azure's cloud capabilities. I look forward to collaborating with the team to successfully execute this project and achieve our goals.
+# <a name="_3at9u9s4e0vp"></a>**Goals**
+1. Deploy and Configure AD DS: Establish a reliable Active Directory Domain Services (AD DS) environment both on-premises and in Azure, ensuring high availability and redundancy.
+1. Migrate Domain Controller to Azure: Transition an existing on-premises domain controller to Azure, leveraging Azure's infrastructure for improved performance and disaster recovery.
+1. Create and Manage AD Objects: Efficiently manage AD users, groups, and organizational units (OUs) through automated and bulk operations, ensuring streamlined administration.
+1. Extend AD to Azure: Implement Azure AD Domain Services (Azure AD DS) and configure synchronization between on-premises AD and Azure AD, enabling a unified identity management system.
+1. Final Review and Presentation: Conduct a comprehensive review of the integration, document the entire process, and present the outcomes to stakeholders for feedback and future improvements.
+## <a name="_56kfpodyq5td"></a>**Benefits of the Project**
+Enhanced Security: By integrating on-premises AD with Azure AD, we can leverage advanced security features such as multi-factor authentication (MFA) and conditional access policies.
+
+Improved Scalability: Azure's scalable infrastructure ensures that our AD environment can grow with our organizational needs without compromising performance.
+
+Seamless User Experience: Users will benefit from a consistent identity across on-premises and cloud environments, simplifying access to resources and applications.
+
+Disaster Recovery: Hosting domain controllers in Azure provides a robust disaster recovery solution, ensuring business continuity in case of on-premises failures.
+# <a name="_4p7xi5bvhxdr"></a>**Project Plan Timeline (Week-by-Week Breakdown)**
+**Week 1: Active Directory Deployment**
+
+Tasks: Deploy AD DS on-premises and in Azure, migrate a domain controller to Azure.
+
+Deliverables: Detailed documentation of the deployment and migration process, including network diagrams and step-by-step guides.
+
+
+**Week 2: Create and Manage AD Objects**
+
+Tasks: Create and manage AD users, groups, and OUs; perform bulk operations using PowerShell.
+
+Deliverables: Comprehensive report on AD object management, including screenshots, configuration details, and PowerShell scripts.
+
+
+**Week 3: Extend AD to Azure**
+
+Tasks: Deploy Azure AD DS, configure synchronization with Azure AD Connect, and implement Azure AD Join for devices.
+
+Deliverables: Documentation of Azure AD DS deployment, synchronization configuration, and troubleshooting guide for common issues.
+
+
+**Week 4: Final Review and Presentation**
+
+Tasks: Review the integration, prepare a final report, and present the project outcomes to stakeholders.
+
+Deliverables: Final report on AD integration, presentation slides, and detailed feedback from stakeholders.
+# <a name="_yyrhu7ml5bea"></a>**Milestones**
+
+<table><tr><th valign="top">Week</th><th valign="top">Task</th><th valign="top">Milestone</th><th valign="top">Assigned Architect(s)</th></tr>
+<tr><td rowspan="2" valign="top">1</td><td rowspan="2" valign="top">Active Directory Deployment</td><td valign="top">AD DS deployed on-premises and in Azure</td><td valign="top">Hassan Sayed Hassan, Islam Hamdy Abdo</td></tr>
+<tr><td valign="top">Domain controller migrated to Azure</td><td valign="top">Hassan Sayed Hassan, Islam Hamdy Abdo</td></tr>
+<tr><td rowspan="2" valign="top">2</td><td rowspan="2" valign="top">Create and Manage AD Objects</td><td valign="top">AD users, groups, and OUs created and managed</td><td valign="top">Yasen Mahmoud Ahmed, Alaa Mohamed Gomaa</td></tr>
+<tr><td valign="top">Bulk operations performed</td><td valign="top">Yasen Mahmoud Ahmed, Alaa Mohamed Gomaa</td></tr>
+<tr><td rowspan="3" valign="top">3</td><td rowspan="3" valign="top">Extend AD to Azure</td><td valign="top">Azure AD DS deployed</td><td valign="top">Hassan Sayed Hassan, Islam Hamdy Abdo</td></tr>
+<tr><td valign="top">Synchronization configured</td><td valign="top">Hassan Sayed Hassan, Islam Hamdy Abdo</td></tr>
+<tr><td valign="top">Azure AD Join implemented</td><td valign="top">Yasen Mahmoud Ahmed, Alaa Mohamed Gomaa</td></tr>
+<tr><td rowspan="3" valign="top">4</td><td rowspan="3" valign="top">Final Review and Presentation</td><td valign="top">Integration reviewed</td><td valign="top">All architects</td></tr>
+<tr><td valign="top">Final report prepared</td><td valign="top">All architects</td></tr>
+<tr><td valign="top">Project outcomes presented</td><td valign="top">All architects</td></tr>
+</table>
+
+**Gantt Chart**
+
+|Task|Week 1|Week 2|Week 3|Week 4|Milestone|
+| :- | :- | :- | :- | :- | :- |
+|Deploy AD DS On-Premises|X||||AD DS On-Premises Deployed|
+|Configure AD DS in Azure|X||||AD DS Configured in Azure|
+|Migrate Domain Controller to Azure|X||||Domain Controller Migrated|
+|Create AD Users||X|||AD Users Created|
+|Manage AD Groups and OUs||X|||Groups and OUs Managed|
+|Perform Bulk Operations on AD Objects||X|||Bulk Operations Completed|
+|Deploy Azure AD DS|||X||Azure AD DS Deployed|
+|Configure Synchronization with On-Premises AD|||X||Synchronization Configured|
+|Implement Azure AD Join|||X||Azure AD Join Implemented|
+|Review Integration||||X|Integration Reviewed|
+|Prepare Final Report||||X|Final Report Prepared|
+|Present Findings to Stakeholders||||X|Presentation Delivered|
+
+**Task Assignment & Roles**
+
+|![People] Name|![Dropdowns] Role|![Dropdowns] Project Phase|![Dropdowns] Contributions|
+| :- | :- | :- | :- |
+|Hassan Sayed Hassan|Azure Architect|Week 1: Active Directory Deployment|Deploy and configure Active Directory Domain Services (AD DS) onpremises and in Azure. Migrate a domain controller to Azure.|
+|Islam Hamdy Abdo|Azure Architect|Week 2: Create and Manage AD Objects|Create and manage AD users, groups, and organizational units. Perform bulk operations and configure object properties.|
+|Yasen Mahmoud Ahmed|Azure Architect|Week 3: Extend AD to Azure|Deploy Azure AD DS, configure synchronization between on-premises AD and Azure AD, and implement Azure AD Join.|
+|Alaa Mohamed Gomaa|Azure Architect|Week 4: Final Review and Presentation|Review the integration, prepare a final report, and present the project outcomes to stakeholders.|
+
+
+
+# <a name="_531svui19buo"></a>**Contributors Architects’ Github Accounts**
+
+|![People] Name|Github Link|
+| :- | :- |
+|Hassan Sayed Hassan|https://github.com/hassansayed99|
+|Islam Hamdy Abdo|https://github.com/islamyassein|
+|Yasen Mahmoud Ahmed|https://github.com/YasenMahmoudAhmed|
+|Alaa Mohamed Gomaa|https://github.com/alaaMohamed1219|
+
+## <a name="_dziba6lbsi7"></a>**Contributors Architects’ Contacts and Emails**
+
+|![People] Name|![No type](Aspose.Words.ce7f7982-a84e-4828-aa2d-247a4dd45150.005.png) Email|
+| :- | :- |
+|Hassan Sayed Hassan|hassansayed2131999@gmail.com|
+|Islam Hamdy Abdo|islamyassein@outlook.com|
+|Yasen Mahmoud Ahmed|faridayasen7@gmail.com|
+|Alaa Mohamed Gomaa|amgg5672@gmail.com|
+
+
+
+
+
+**Risk Assessment & Mitigation Plan**
+
+**1. Data Security Risks**
+
+Risk: There's a chance that sensitive data could be accessed by unauthorized users during the migration and synchronization process.
+
+Mitigation: To prevent this, we'll implement multi-factor authentication (MFA), encrypt data both in transit and at rest, and regularly audit access logs to catch any suspicious activity.
+
+**2. Synchronization Issues**
+
+Risk: Sometimes, synchronization between on-premises AD and Azure AD might fail or be inconsistent.
+
+Mitigation: We'll use Azure AD Connect Health to keep an eye on synchronization, set up alerts for any failures, and ensure our synchronization rules are properly configured.
+
+**3. Downtime During Migration**
+
+Risk: Migrating domain controllers to Azure could cause some downtime, which might disrupt business operations.
+
+Mitigation: We'll plan the migration during off-peak hours, use a phased approach to minimize impact, and have a rollback plan ready just in case something goes wrong.
+
+**4. Configuration Errors**
+
+Risk: Misconfigurations can lead to security vulnerabilities or operational issues.
+
+Mitigation: We'll follow best practices and guidelines, conduct thorough testing in a staging environment, and have peer reviews to catch any mistakes.
+
+**5. User Provisioning and De-provisioning**
+
+Risk: Errors in provisioning and de-provisioning users can pose security risks.
+
+Mitigation: We'll automate these processes using tools like Azure AD Connect and regularly review and update our user access policies.
+
+**6. Network Connectivity Issues**
+
+Risk: Network problems could affect connectivity between on-premises and Azure environments.
+
+Mitigation: We'll ensure we have redundant network connections, use VPN or ExpressRoute for secure and reliable connectivity, and monitor network performance closely.
+
+**KPIs (Key Performance Indicators)**
+
+These KPIs will help us measure the success of the project and ensure we meet our goals.
+
+1\. System Uptime
+
+Metric: How often the AD and Azure AD services are available.
+
+Target: We aim for 99.9% uptime.
+
+2\. Synchronization Success Rate
+
+Metric: The percentage of successful synchronization cycles between on-premises AD and Azure AD.
+
+Target: We aim for a 99.5% success rate.
+
+3\. Response Time
+
+Metric: The average time it takes to resolve issues or incidents related to AD and Azure AD.
+
+Target: We aim to resolve issues in less than 4 hours.
+
+4\. User Adoption Rate
+
+Metric: The percentage of users successfully using Azure AD Join and other integrated services.
+
+Target: We aim for 95% user adoption within the first month.
+
+5\. Security Incident Rate
+
+Metric: The number of security incidents related to AD and Azure AD.
+
+Target: We aim for zero security incidents.
+
+6\. User Provisioning Time
+
+Metric: The average time it takes to provision new users in AD and Azure AD.
+
+Target: We aim to provision new users in less than 30 minutes.
+
+7\. Feedback from Stakeholders
+
+Metric: The satisfaction rating from stakeholders based on the final review and presentation.
+
+Target: We aim for a 90% satisfaction rating.
+
+[horizontal line]: Aspose.Words.ce7f7982-a84e-4828-aa2d-247a4dd45150.001.png
+[People]: Aspose.Words.ce7f7982-a84e-4828-aa2d-247a4dd45150.003.png
+[Dropdowns]: Aspose.Words.ce7f7982-a84e-4828-aa2d-247a4dd45150.004.png
